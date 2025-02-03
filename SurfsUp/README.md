@@ -1,0 +1,2 @@
+# sqlalchemy-challenge
+In this challenge, we did climate analysis of Hawaii using sqlalchemy to connect hawaii climate database and do basic climate analysis via data exploratioj using python and data visulization. The purpose of the task was to help design the travel plan based on the climate of hawaii. Using python and sqlalchemy, we were able to find the highest precipitation data and 12 months temperature observation (TOBS) using histogram.
